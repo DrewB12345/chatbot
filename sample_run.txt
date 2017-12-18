@@ -1,0 +1,49 @@
+ _____   _   _    ___    _____  ______   _____   _____ 
+/  __ \ | | | |  / _ \  |_   _| | ___ \ |  _  | |_   _|
+| /  \/ | |_| | / /_\ \   | |   | |_/ / | | | |   | |  
+| |     |  _  | |  _  |   | |   | ___ \ | | | |   | |  
+| \__/\ | | | | | | | |   | |   | |_/ / \ \_/ /   | |  
+ \____/ \_| |_/ \_| |_/   \_/   \____/   \___/    \_/  
+
+Chatbot: Hello, uh... what was your name again?
+
+Your name: Rdew
+
+Chatbot: Ah, I remember now! What I don't remember is my own name.
+
+Chatbot's name: bOt
+
+bOt: Ah, thanks. I tend to forget things often. In fact, I'll probably forget this conversation before the next time we talk. Anyways, say something to me!
+
+Rdew: Oops, I mistyped the names. Is there a way to change them?
+bOt: If you want to change your name, say "Change name". If you want to change my name, say "Change bot name".
+
+Rdew: Change name
+So you want to change your name?
+
+Your name: Drew
+
+From now on, I will call you Drew. Say something to me!
+
+Drew: Change bot name
+So you want to change my name?
+
+Chatbot's name: Bot
+
+Alright, my new name is Bot. Say something to me!
+
+Drew: I like fries smothered in cheese kinda.
+Bot: Oh, that's interesting
+
+Drew: Do you like them?
+Bot: Ask again later.
+
+Drew: Why later?
+Bot: I dunno.
+
+Drew: Just thinking of an excuse, I see. Well, I have to leave.
+Bot: If you want to stop talking, say 'Goodbye'.
+
+Drew: Goodbye
+Bot: Goodbye. It was nice talking to you.
+Would you like to chat again? (y/n)n
